@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessColor</string>
+    <string name="title_activity_count">CountActivity</string>
+    <string name="say_hello">SAY HELLO</string>
+</resources>

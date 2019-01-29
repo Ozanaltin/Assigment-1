@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AndroidDevelopmentA10918-master.iml" filepath="$PROJECT_DIR$/../AndroidDevelopmentA10918-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment1.iml" filepath="$PROJECT_DIR$/assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assignment3/assignment3.iml" filepath="$PROJECT_DIR$/../assignment3/assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../challange43/challange43.iml" filepath="$PROJECT_DIR$/../challange43/challange43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../challenge52_2/challenge52_2.iml" filepath="$PROJECT_DIR$/../challenge52_2/challenge52_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellocompat_lab33/hellocompat_lab33.iml" filepath="$PROJECT_DIR$/../hellocompat_lab33/hellocompat_lab33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework42/homework42.iml" filepath="$PROJECT_DIR$/../homework42/homework42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework51/homework51.iml" filepath="$PROJECT_DIR$/../homework51/homework51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../homework72/homework72.iml" filepath="$PROJECT_DIR$/../homework72/homework72.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab31/lab31.iml" filepath="$PROJECT_DIR$/../lab31/lab31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab41/lab41.iml" filepath="$PROJECT_DIR$/../lab41/lab41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab42/lab42.iml" filepath="$PROJECT_DIR$/../lab42/lab42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab44/lab44.iml" filepath="$PROJECT_DIR$/../lab44/lab44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab45/lab45.iml" filepath="$PROJECT_DIR$/../lab45/lab45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab51/lab51.iml" filepath="$PROJECT_DIR$/../lab51/lab51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab52/lab52.iml" filepath="$PROJECT_DIR$/../lab52/lab52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab71asinctasks/lab71asinctasks.iml" filepath="$PROJECT_DIR$/../lab71asinctasks/lab71asinctasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab72requestbook/lab72requestbook.iml" filepath="$PROJECT_DIR$/../lab72requestbook/lab72requestbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab73/lab73.iml" filepath="$PROJECT_DIR$/../lab73/lab73.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab81notify/lab81notify.iml" filepath="$PROJECT_DIR$/../lab81notify/lab81notify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab82alarm/lab82alarm.iml" filepath="$PROJECT_DIR$/../lab82alarm/lab82alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab91sharedprefs/lab91sharedprefs.iml" filepath="$PROJECT_DIR$/../lab91sharedprefs/lab91sharedprefs.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../assignment3" />
+            <option value="$PROJECT_DIR$/../challange43" />
+            <option value="$PROJECT_DIR$/../challenge52_2" />
+            <option value="$PROJECT_DIR$/../hellocompat_lab33" />
+            <option value="$PROJECT_DIR$/../homework42" />
+            <option value="$PROJECT_DIR$/../homework51" />
+            <option value="$PROJECT_DIR$/../homework72" />
+            <option value="$PROJECT_DIR$/../lab31" />
+            <option value="$PROJECT_DIR$/../lab41" />
+            <option value="$PROJECT_DIR$/../lab42" />
+            <option value="$PROJECT_DIR$/../lab44" />
+            <option value="$PROJECT_DIR$/../lab45" />
+            <option value="$PROJECT_DIR$/../lab51" />
+            <option value="$PROJECT_DIR$/../lab52" />
+            <option value="$PROJECT_DIR$/../lab71asinctasks" />
+            <option value="$PROJECT_DIR$/../lab72requestbook" />
+            <option value="$PROJECT_DIR$/../lab73" />
+            <option value="$PROJECT_DIR$/../lab81notify" />
+            <option value="$PROJECT_DIR$/../lab82alarm" />
+            <option value="$PROJECT_DIR$/../lab91sharedprefs" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

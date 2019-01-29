@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_margin="26dp"
+        android:layout_marginTop="?actionBarSize"
+        android:layout_width="match_parent"
+        android:animateLayoutChanges="true"
+        android:layout_height="match_parent">
+
+
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/say_hello_btn"
+            android:gravity="center"
+            android:text="@string/say_hello"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:background="#5100ff"/>
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="0dp"
+              android:background="#ffb700"
+              android:text="0"
+              android:id="@+id/text_count"
+              android:textStyle="bold"
+              android:textSize="80sp"
+              android:gravity="center"
+              android:textColor="#5100ff"
+              android:layout_weight="1"/>
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/count_btn"
+            android:gravity="center"
+            android:text="COUNT"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:background="#5100ff"/>
+
+
+</LinearLayout>
